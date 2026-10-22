@@ -1,0 +1,16 @@
+jupyterlab
+ipykernel
+requests
+beautifulsoup4
+pandas
+matplotlib
+feedparser
+afinn
+transformers
+torch
+openpyxl
+scikit-learn
+nltk
+numpy
+networkx
+scipy
